@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Somersetshire wonder, or. Late dreadful judgments which hath hapened upon the family of Mr. Pope, of Wotton, near Glastenbury in the said country. To the tune of, The bleeding heart.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05922</idno>
+            <idno type="STC">Wing S4654</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[90]</idno>
+            <idno type="EEBO-CITATION">99885288</idno>
+            <idno type="PROQUEST">ocm99885288</idno>
+            <idno type="VID">182243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182243)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[91])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Somersetshire wonder, or. Late dreadful judgments which hath hapened upon the family of Mr. Pope, of Wotton, near Glastenbury in the said country. To the tune of, The bleeding heart.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jackson.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Verse - "Good people all that round about me stand,".</note>
+                  <note>The "m" in "Family" is upside down.</note>
+                  <note>Imperfect: mutilated, affecting title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182243:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <hi>The Somerſetſhire Wonder, Or.</hi> Late Dreadful Judgments which hath hapened upon the Fami<g ref="char:EOLhyphen"/>ly of Mr. <hi>Pope,</hi> of <hi>Wotton,</hi> near <hi>Glaſtenbury</hi> in the ſaid Country.</head>
+            <opener>To the Tune of, <hi>the Bleeding heart.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>GOOD People all that round about me ſtand,</l>
+               <l>Pray mind the ſtrange afflictons in this Land,</l>
+               <l>Such wonders ſcarce before has ever been,</l>
+               <l>In <hi>Somerſetſhire</hi> at <hi>Wotten</hi> they are ſeen.</l>
+            </lg>
+            <lg>
+               <l>One Mr. <hi>Pope,</hi> who did at <hi>Wotten</hi> dwell,</l>
+               <l>Near <hi>Glaſtenbury,</hi> where thouſands can tell,</l>
+               <l>The diſmal fate which lately did befall,</l>
+               <l>Upon the farmer by diſtroying all.</l>
+            </lg>
+            <lg>
+               <l>Now to begin, if you the truth would know,</l>
+               <l>One Sunday Mr. <hi>Pope</hi> to Church did go,</l>
+               <l>his only Son at home he left behind,</l>
+               <l>who was to play and other things inclin'd.</l>
+            </lg>
+            <lg>
+               <l>During Church time this Lad did run about,</l>
+               <l>Looking for Hens neſt and to find Eggs out,</l>
+               <l>For to boy! Eggs it was his main deſire,</l>
+               <l>When he came in three Eggs were on the fire.</l>
+            </lg>
+            <lg>
+               <l>one of the ſame he took and ſtraight did eat,</l>
+               <l>VVhich quickly put the Lad into a ſweat,</l>
+               <l>And quickly fell to vomiting ſtrange things,</l>
+               <l>As bits of Glaſſ, ſtump Nails and crooked Pins.</l>
+            </lg>
+            <lg>
+               <l>A Pear ſtuch full of Thorns brought up likewiſe,</l>
+               <l>And now like one bewitch'd this young Man lies,</l>
+               <l>The Farther laid the other two Eggs by,</l>
+               <l>VVhich chang'd to Nails and Glaſs immediately.</l>
+            </lg>
+            <lg>
+               <l>Beſides this great misfortune there does fall,</l>
+               <l>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſtranger VVonders ſtill among them all,</l>
+               <l>A Neighbouring VVoman happen'd to be there</l>
+               <l>VVho ſaw this lad depriv;d of all his hair.</l>
+            </lg>
+            <lg>
+               <l>Tho neither hand nor Sizzars could ſhe ſee,</l>
+               <l>Yet this lad's hair was clip'd immediately.</l>
+               <l>And plainly ſeen to move out of the room,</l>
+               <l>So with ths fright ſhe fell into a ſwound.</l>
+            </lg>
+            <lg>
+               <l>There's other ſtrange and various wonders more,</l>
+               <l>Stones Day and Night are thrown within the Door,</l>
+               <l>And the Windows which the Glaſs doth break,</l>
+               <l>VVith ſtreaks of blood would make ones heart to ake</l>
+            </lg>
+            <lg>
+               <l>Some ſtones are cold, and other ſtones are hot,</l>
+               <l>They're croſt with blood but Heavens <hi>knows not what,</hi>
+               </l>
+               <l>They riſe out of the Ground and nought is ſeen,</l>
+               <l>To touch them, yet they ſwiftly do fly in.</l>
+            </lg>
+            <lg>
+               <l>And if they take theſe ſtones and throw them out,</l>
+               <l>They ſtraigit rebound and make a fearful rout,</l>
+               <l>And when the troubled did degin to ceaſe,</l>
+               <l>Then more vexatious plagues came on apace.</l>
+            </lg>
+            <lg>
+               <l>For in the Orchard, there the Apple Trees,</l>
+               <l>Vhere ſplit from top to bottom with great eaſs,</l>
+               <l>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <unclear>to ones</unclear> ſight, for one could ſcarce turn round,</l>
+               <l>But they were ſplit and tumbled to the Ground.</l>
+            </lg>
+            <lg>
+               <l>And while the Son by the Fire-ſide did read,</l>
+               <l>Straight up the <hi>chimmney</hi> ſomething pull'd with <hi>ſpeed</hi>
+               </l>
+               <l>The father and the ſervant ſcarce I ſay,</l>
+               <l>Could hold the ſon from being draw away.</l>
+            </lg>
+            <lg>
+               <l>And when the Doors were ſhut and bolted too,</l>
+               <l>they would burſt open without more to do,</l>
+               <l>Nay locks nor Bars could no ways them ſecure,</l>
+               <l>Tho nothing ſeen yet open flys a Door.</l>
+            </lg>
+            <lg>
+               <l>None of the Family at night can reſt</l>
+               <l>But each with ſome affliction ſore oppreſt,</l>
+               <l>Sometimes the cords are cut and down they fall,</l>
+               <l>Sometimes out of the Beds too they are hall'd.</l>
+            </lg>
+            <lg>
+               <l>A Parſon near to <hi>Wotton</hi> coming in,</l>
+               <l>Receiv'd a deadly blow yet nothing ſe'en.</l>
+               <l>to ſtrik, ſo ſtrange theſe ſtories are and true,</l>
+               <l>their Reaping Hooks twiſted like to a ſcrew.</l>
+            </lg>
+            <lg>
+               <l>the Son when in a fit did thus delrae,</l>
+               <l>Oh Fatuher, of your houſe take ſpecial care,</l>
+               <l>Or this ſame Night by fire 'twill be conſum'd,</l>
+               <l>Your houſe and Barns will be burnt to the Gound,</l>
+            </lg>
+            <lg>
+               <l>If nothing this Night, ith Morning it will be,</l>
+               <l>therefore now in the Barn go ſearch and ſee,</l>
+               <l>the Father and a Servant ſtraightways ſought,</l>
+               <l>And from the Barn they lighted touchwood broun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>For</hi> all their care and diligence that Nigt,</l>
+               <l>Their Barn next Morning was in fire light,</l>
+               <l>which quckly to the Dwelling houſe did blow,</l>
+               <l>And that by fire was conſum'd alſo.</l>
+            </lg>
+            <lg>
+               <l>the <hi>Farmer to another houſe i'th Town,</hi>
+               </l>
+               <l>
+                  <hi>Did go to Dwell when his own was burt down,</hi>
+               </l>
+               <l>
+                  <hi>And as the Son ſat by the ſide,</hi>
+               </l>
+               <l>
+                  <hi>Out of his Breeches flames of Fire fly'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The Family with all that they could ſtrive,</hi>
+               </l>
+               <l>
+                  <hi>Had much ado to ſave the Boy alive,</hi>
+               </l>
+               <l>
+                  <hi>And ſince this both his Wheat Mows &amp; his Hay,</hi>
+               </l>
+               <l>
+                  <hi>By Flames of Fire are conſum'd away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Some Neighbours helping to remove the Wheat,</hi>
+               </l>
+               <l>
+                  <hi>The very Sheaves which they remov'd did ſweat,</hi>
+               </l>
+               <l>
+                  <hi>With Crimſon blood the Ears run truckling down</hi>
+               </l>
+               <l>
+                  <hi>Some on their Cloath and likewiſe on the Ground.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thus ſhall and Oxen, Barns, and Houſes there,</hi>
+               </l>
+               <l>
+                  <hi>Fy fatal Fire, come from, none knows where,</hi>
+               </l>
+               <l>
+                  <hi>Have been conſum'd and wh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t amuſes <unclear>more</unclear>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Blood often dropped at the very Door.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And thus theſe dreadfull I<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <unclear>ſtill</unclear> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Altho the Man aloft is q<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Yet d<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y nor Night be <gap reason="illegible" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap>t qui<gap reason="illegible" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Oh, Heavens, Mercy <unclear>ſend</unclear> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Jackſon</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
